@@ -1,6 +1,6 @@
 # instacuk
 https://iamcracked/instacuk
-#ini Hanya Penggabungan, #Aku hanya Copyright dan membantu kalian.
+#ini Hanya Penggabungan,
 
 Usage
 
